@@ -1,0 +1,115 @@
+{
+  "Artist": "The Beatles",
+  "Name": "Twist And Shout - Remastered",
+  "Link": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l",
+  "Album": "Please Please Me (Remastered)"
+}{
+  "Artist": "Ace of Base",
+  "Name": "The Sign",
+  "Link": "https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc",
+  "Album": "Greatest Hits"
+}{
+  "Name": "The Lord of the Rings: The Fellowship of the Ring",
+  "Year": "2001",
+  "imdbRating": "8.8",
+  "rottenRating": "91%",
+  "Production": "New Zealand, USA",
+  "Language": "English, Sindarin",
+  "Plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle Earth from the Dark Lord Sauron.",
+  "Actors": "Alan Howard, Noel Appleby, Sean Astin, Sala Baker"
+}{
+  "Name": "Mr. Nobody",
+  "Year": "2009",
+  "imdbRating": "7.9",
+  "rottenRating": "66%",
+  "Production": "Belgium, Germany, Canada, France, USA, UK",
+  "Language": "English, Mohawk",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+}{
+  "Artist": "Backstreet Boys",
+  "Name": "I Want It That Way",
+  "Link": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6",
+  "Album": "The Hits--Chapter One"
+}{
+  "Name": "The Matrix",
+  "Year": "1999",
+  "imdbRating": "8.7",
+  "rottenRating": "87%",
+  "Production": "USA",
+  "Language": "English",
+  "Plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+  "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving"
+}{
+  "Artist": "Backstreet Boys",
+  "Name": "I Want It That Way",
+  "Link": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6",
+  "Album": "The Hits--Chapter One"
+}{
+  "Name": "National Treasure",
+  "Year": "2004",
+  "imdbRating": "6.9",
+  "rottenRating": "45%",
+  "Production": "USA",
+  "Language": "English, Spanish",
+  "Plot": "A historian races to find the legendary Templar Treasure before a team of mercenaries.",
+  "Actors": "Nicolas Cage, Diane Kruger, Justin Bartha, Sean Bean"
+}{
+  "Artist": "The Beatles",
+  "Name": "Yesterday - Remastered 2009",
+  "Link": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI",
+  "Album": "Help! (Remastered)"
+}{
+  "Artist": "Backstreet Boys",
+  "Name": "I Want It That Way",
+  "Link": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6",
+  "Album": "The Hits--Chapter One"
+}{
+  "Artist": "AC Breeze",
+  "Name": "Blue Is My Favorite Color",
+  "Link": "https://open.spotify.com/track/1tRBNF88vWJrcENKqkrhJT",
+  "Album": "The Leaves Fall With the Tears"
+}{
+  "Artist": "Backstreet Boys",
+  "Name": "I Want It That Way",
+  "Link": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6",
+  "Album": "The Hits--Chapter One"
+}{
+  "Artist": "Ace of Base",
+  "Name": "The Sign",
+  "Link": "https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc",
+  "Album": "Greatest Hits"
+}{
+  "Artist": "Pink Floyd",
+  "Name": "Hey You",
+  "Link": "https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN",
+  "Album": "The Wall"
+}{
+  "Name": "The Aviator",
+  "Year": "2004",
+  "imdbRating": "7.5",
+  "rottenRating": "86%",
+  "Production": "Germany, USA",
+  "Language": "English",
+  "Plot": "A biopic depicting the early years of legendary Director and aviator Howard Hughes' career from the late 1920s to the mid 1940s.",
+  "Actors": "Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale, John C. Reilly"
+}{
+  "Artist": "Backstreet Boys",
+  "Name": "I Want It That Way",
+  "Link": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6",
+  "Album": "The Hits--Chapter One"
+}{
+  "Name": "Aladdin",
+  "Year": "1992",
+  "imdbRating": "8.0",
+  "rottenRating": "94%",
+  "Production": "USA",
+  "Language": "English",
+  "Plot": "When a street urchin vies for the love of a beautiful princess, he uses a genie's magic power to make himself off as a prince in order to marry her.",
+  "Actors": "Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman"
+}{
+  "Artist": "Village People",
+  "Name": "Ymca",
+  "Link": "https://open.spotify.com/track/7Cp69rNBwU0gaFT8zxExlE",
+  "Album": "Was nicht passt, wird passend gemacht (Music Inspired By the Film)"
+}
