@@ -9,5 +9,9 @@ Movie this - It will prompt you to what movie you want to see its information. I
 
 Do what I say - It will provide you with "I want it that way" song information.
 
+Find the screenshots below
+
+https://github.com/hsaxion8/screenshots
+
 Enjoy!
 
